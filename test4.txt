@@ -1,0 +1,20 @@
+A
+B
+C
+D
+E
+F
+LINKSTATE
+A-B 2 A,C
+B-F 2
+B-C 4 C,F
+C-D 6 
+D-E 1 
+A-E 5 A,E
+UPDATE
+A-E -1 A,E
+D-E 7 
+B-C 0 F,E
+F-G 2
+A-G 5 A,G
+END
